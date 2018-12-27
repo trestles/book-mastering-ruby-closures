@@ -10,7 +10,9 @@ Implementing Lazy map() p66
   "
 
 Implementing Lazy take() p67
+  "When taken reaches the limit, a StopIteration is raised to break out of the block" p68
 
+  "handle exception in the initialize method" p68
 =end
 
 
