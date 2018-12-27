@@ -75,3 +75,18 @@ puts x
 x = "outside x 2"
 1.times { |;x| x = "x modified from outside the block" }
 puts x
+
+# Block Pattern #1 Enumeration
+
+# Block Pattern #2 Managing Resources
+
+=begin
+class File
+  def self.open(name, mode)
+    new(name, mode) unless block_given?
+  end
+end 
+
+=end
+
+# Block Pattern #3 Beautiful Object Initialization
