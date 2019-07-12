@@ -1,6 +1,19 @@
 
 working through the book Matering Ruby Closures. A FUN Christmas!
 
+# terms
+- closest variable wins p2
+- `do...end` creates a new scope p2
+- lambda p3
+- yield p17
+- block_given?() p17
+- block_variables p17
+- block_patterns p17
+- parallel assignment p20
+- block local variables p22
+- block-to-proc conversion p35
+- give an exmaple of something that is NOT an object p35
+
 # 1 Closing in on Closures p1
 - The Foundations of a Closure p1
 - Simulating Classes with Closures p5
