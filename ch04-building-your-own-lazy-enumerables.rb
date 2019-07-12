@@ -58,6 +58,9 @@ module Enumerable
     end
   end
 
+=begin
+
+1.upto(Float::INFINITY).lax.map { |x| x*x }.map { |x| x+1 }.take(5).to_a
 
 
 1.upto(Float::INFINITY)
@@ -66,3 +69,4 @@ module Enumerable
   .map { |x| x+1 }
   .take(5)
   .to_a
+=end 

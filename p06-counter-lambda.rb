@@ -1,7 +1,7 @@
 # outermost lambda 
 Counter = lambda do 
   x = 0 
-  get_x = lambda { x } # new scope
+  get_x = lambda { x } # new scope but why? doesn't outermost lambda 
   incr = lambda { x += 1 }
   decr = lambda { x -= 1}
 
