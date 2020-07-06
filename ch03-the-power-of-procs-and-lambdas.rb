@@ -1,6 +1,8 @@
 
 =begin
- Recall that blocks by themselvese are not objects - they cannot exist by themselves (? - what does that mean) p41
+#### Mastering Ruby Closures 
+
+Recall that blocks by themselvese are not objects - they cannot exist by themselves (? - what does that mean) p41
 
 
 Procs have no such restrictions, because they are objects.
