@@ -1,3 +1,6 @@
+
+#### Mastering Ruby Closures 
+
 # 3. The Power of Procs and Lambdas p41
 ## Procs and the Four Ways of Calling Them p42
 - In fact, Ruby gives you four different ways:
