@@ -1,3 +1,6 @@
+
+#### Mastering Ruby Closures 
+
 # 2 Beautiful Blocks p17
 - Blocks are effectively a type of closure. Blocks capture pieces of code that can be passed into methods to be executed later. In a sense, they act like anonymous functions p17
 - In order to understand and appreciate real-world Ruby code, it's imperative you understand how blocks work and how to use them. p17

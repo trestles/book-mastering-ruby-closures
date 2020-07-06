@@ -1,4 +1,5 @@
 
+
 class Counter
   def initialize
     @x = 0
