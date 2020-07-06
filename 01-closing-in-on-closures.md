@@ -1,3 +1,6 @@
+
+#### Mastering Ruby Closures 
+
 # 1 Closing in on Closures p1
 ## The Foundations of a Closure p1
 - A closure is essentially a function whose body references a variable that is declared in the parent scope p1
